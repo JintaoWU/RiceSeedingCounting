@@ -13,5 +13,10 @@ Cudnn: 7.0.5
 Tensorflow-gpu:1.8.0  
 Python:python2.7  
 
-The proposed Combined Network method for counting rice seedlings.  
+  
 ![image](https://github.com/JintaoWU/RiceSeedingCounting/blob/master/images/abstract.jpg)
+The proposed Combined Network method for counting rice seedlings.  
+  
+    
+      
+        
