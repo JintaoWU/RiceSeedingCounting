@@ -12,3 +12,7 @@ Cuda: 9.0
 Cudnn: 7.0.5  
 Tensorflow-gpu:1.8.0  
 Python:python2.7  
+
+
+
+![image](https://github.com/JintaoWU/RiceSeedingCounting/blob/master/images/abstract.jpg)
